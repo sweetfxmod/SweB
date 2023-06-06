@@ -1,0 +1,10 @@
+{
+    "Chopper": false,
+    "LangNumbers": [37,28],
+    "TzNaming": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Linki": 
+    [ 
+          { "LgNumb":37, "Link": ""},
+          { "LgNumb":28, "Link": ""}
+    ]
+ }
